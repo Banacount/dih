@@ -1,3 +1,3 @@
-### Integrated Directory Handler
+### Directory Integrated Handler
 
 Manage your directory pretty easily with dih ;)
